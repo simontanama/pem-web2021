@@ -1,0 +1,11 @@
+1. Jelaskan pengertian client side scripting pada arsitektur berbasis web ?
+Client Side Scripting merupakan jenis script yang pengolahannya dilakukan di sisi client. pengolahan disini berarti “di terjemahkan / interpreted” yang memiliki tugas untuk menterjemahkan script jenis ini disisi client adalah web browser.
+
+
+2. Jelaskan perbedaan HTML 5 dengan HTML versi sebelumnya, apa yang membuat HTML 5 lebih menarik ?
+perbedaan yang membuat HTML 5 Lebih menarik dibanding versi sebelumnya:
+-HTML5 mendukung form control yang baru, misalnya: tanggal dan waktu, email, nomor, range, tel, url, pencarian, dll.
+-Ada banyak elemen baru yang diperkenalkan dalam HTML5. Beberapa yang paling penting adalah summary, time, aside, audio, command, data, datalist, dan lain sebagainya.
+
+3. Sebutkan Produk / Tampilan apa yang anda ingin develop, setelah menguasai sedikit syntak HTML 5 ini ?
+membuat marketplace untuk barang digital
