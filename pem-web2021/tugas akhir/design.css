@@ -1,0 +1,114 @@
+body{
+    background-image: url("bg gs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+div{
+    text-align: center;
+    width: 100%;
+}
+
+/* header */
+header{
+    width: 95%;
+}
+header ul{
+	text-align: right;
+}
+header ul li{
+	display: inline-block;
+}
+header ul li a{
+	padding: 25px 20px;
+	display: inline-block;
+    text-decoration: none;
+    color: inherit;
+}
+header ul li a:hover{
+	background-color: rgb(25, 0, 252);
+	color: #fff;
+}
+
+/* footer */
+footer ul{
+	float: center;
+}
+footer ul li{
+	display: inline-block;
+}
+footer ul li a{
+	padding: 50px 50px;
+	display: inline-block;
+}
+footer ul li a:hover{
+	opacity: 60%;
+}
+
+/* logo sosmed */
+.fa {
+    padding: 50px;
+    font-size: 30px;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 50px;
+  }
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-instagram {
+    background: #ee1616;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* isi product*/
+table tr td table{
+    background-color: #fff; 
+}
+table tr table tr td a{
+    text-decoration: none;
+    color: red;
+}
+table tr table tr td a :hover{
+    text-decoration: none;
+    color: black;
+    background: aqua;
+}
+.harga{
+    font-size: 30px;
+    text-align: right;
+}
+#title{
+    font-size: 18px;
+    font-weight: bold;
+}
+#kursharga tr td{
+    
+    height: 50px;
+    width: 50px;
+}
+#kursharga tr td a{
+    text-decoration: none;
+    color: black;
+    padding: 3em;
+}
+#kursharga tr td a:hover{
+    color: white;
+}
+.list{
+    background: white;
+}
+#buynow{
+    background-color: coral;
+    padding: 3em;
+}
+
+
